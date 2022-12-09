@@ -1,6 +1,6 @@
 # mango-api
 
-A simple node.js API that serves up 137 different mango cultivars in JSON!
+A node.js API that serves up 137 different mango cultivars in JSON!
 
 All data collected was gathered from Wikipedia using Puppeteer. You can check that repo out [here](https://github.com/Srgiomndz/wiki-scraper)
 
@@ -8,7 +8,7 @@ All data collected was gathered from Wikipedia using Puppeteer. You can check th
 
 ## Examples
 
-Example endpoint: 
+Endpoint: 
 
 ```
 https://mango-api.fly.dev/api/kent
@@ -27,7 +27,28 @@ Returns:
 
 ## Installation:
 
+1. Clone repo 
+```
+$ https://github.com/Srgiomndz/mango-api.git
 
+```
+
+2. Install dependencies 
+
+```
+$ npm install
+
+```
+
+3. Create a .env file
+
+
+```
+$ touch .env
+
+```
+
+4.
 
 
 ## How It's Made:
