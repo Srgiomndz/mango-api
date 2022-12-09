@@ -47,5 +47,6 @@ add CI/CD with fly.io and github actions for practice!
 
 ## Lessons Learned:
 
+I deployed this project using Fly.io and loved how easy the process was!
 
 
