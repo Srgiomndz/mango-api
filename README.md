@@ -46,6 +46,8 @@ $ npm install
 ```
 $ touch .env
 ```
+![Screen Shot 2022-12-09 at 2 23 48 PM](https://user-images.githubusercontent.com/26800385/206808400-856b6857-0aab-44dc-9871-d0813f4fd5e9.png)
+
 
 
 4. Run!
