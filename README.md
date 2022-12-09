@@ -5,7 +5,8 @@ A simple node.js API that serves up 137 different mango cultivars in JSON!
 All data collected was gathered from Wikipedia using Puppeteer. You can check that repo out [here](https://github.com/Srgiomndz/wiki-scraper)
 
 
-Wiki-scraper
+
+## Examples
 
 Example endpoint: 
 
