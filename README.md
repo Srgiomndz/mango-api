@@ -1,12 +1,16 @@
 # mango-api
 
-This is a simple node.js api that serves up 137 differnet mango cultivars!
+A simple node.js API that serves up 137 different mango cultivars in JSON!
 
+All the data collected was gathered from Wikipedia. Learn more here
 
+Example endpoint: 
 
+```
+https://mango-api.fly.dev/api/kent
+```
 
-
-This is the resulting JSON structure: 
+Returns:
 
 ``` yaml
 {
