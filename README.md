@@ -25,35 +25,39 @@ Returns:
 }
 ```
 
-## Installation:
+## Installation
 
-1. Clone repo 
+To install this repo locally, follow the steps below:
+
+
+1. Clone the repo 
 ```
 $ https://github.com/Srgiomndz/mango-api.git
-
 ```
+
 
 2. Install dependencies 
-
 ```
 $ npm install
-
 ```
 
-3. Create a .env file
 
-
+3. Create a .env file and add PORT and DB_STRING
 ```
 $ touch .env
-
 ```
 
-4.
+
+4. Run!
+```
+$ npm run start 
+```
+**Note:** At this point, the app will not work for you, depending on what data your DB has. You can modify the endpoints in server.js to match the information you will serve.
 
 
 ## How It's Made:
 
-**Tech used:** Node.js, mongoDB, HTML
+**Tech used:** Node.js, MongoDB, HTML
 
 
 
@@ -61,13 +65,11 @@ $ touch .env
 
 Some additions that I would like to add are:
 
-add style.css (very bland atm)
+Add style.css (very bland atm)
 
-add CI/CD with fly.io and github actions for practice!
+Add CI/CD with fly.io and GitHub actions for practice!
 
 
 ## Lessons Learned:
 
 I deployed this project using Fly.io and loved how easy the process was!
-
-
